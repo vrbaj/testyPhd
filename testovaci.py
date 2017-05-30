@@ -1,2 +1,3 @@
-#init commit
-#druhej
+# init commit
+# druhej
+# treti
